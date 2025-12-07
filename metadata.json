@@ -1,0 +1,7 @@
+{
+  "name": "My Style",
+  "description": "Your personal AI stylist and digital wardrobe manager. Digitize your closet, get personalized outfit suggestions, and pack smarter.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
